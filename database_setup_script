@@ -16,9 +16,9 @@ create unique index people_id_uindex
 create table places
 (
 	id int auto_increment,
-	address_line_one nvarchar(20) not null,
-	address_line_two nvarchar(20) not null,
-	notes nvarchar(90) null,
+	address_line_one nvarchar(200) not null,
+	address_line_two nvarchar(200) not null,
+	notes nvarchar(350) null,
     constraint places_pk
 		primary key (id)
 );

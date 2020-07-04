@@ -15,6 +15,40 @@ function main()
 	$fileList = GetFiles($dataDirs);
 
 	//print_r($fileList);
+	$fileContents = GetFlattenedMDArray($fileList);
+
+	CreateFileOutput($fileContents);
+
+
+}
+
+function CreateFileOutput($fileContents)
+{
+	$fileLength = (count($fileContents)-1);
+	
+	$fileOutput = "";
+
+	$cities = GetFlattenedMDArray(array('locations/cities'));
+	$states = GetFlattenedMDArray(array('locations/states'));
+	$streetEndings = GetFlattenedMDArray(array('locations/streetEndings'));
+
+	$cityLength = (count($cities)-1);
+	$statesLength = (count($states)-1);
+	$endingsLength = (count($streetEndings)-1);
+
+
+	for($i = 0; $i<10000; $i++){
+		$fileOutput = $fileOutput . "insert into places(address_line_one, address_line_two, notes) VALUES" . " ('" . rand(0,3000) . " " . $fileContents[rand(0,$fileLength)] . " " . $streetEndings[rand(0,$endingsLength)] . "', '" . $cities[rand(0,$cityLength)] . ", " . $states[rand(0,$statesLength)] . ", " . rand(10000,99999) . "', '');" . "\n";
+	}
+
+	//echo $fileOutput;
+	file_put_contents("outputScripts/PlaceInserts_".gmdate("Y-m-d H:i:s") . ".txt", $fileOutput);
+	echo "File write done \n";
+
+}
+
+function GetFlattenedMDArray($fileList)
+{
 	$fileContents = array();
 	foreach($fileList as &$aryElem)
 	{
@@ -25,30 +59,9 @@ function main()
 		}
 		unset($fileAryElem);
 
-		
-		//print_r($singleFileContents);
 	}
 	unset($aryElem);
-
-//	echo count($fileContents) . "\n";
-
-	$fileLength = count($fileContents);
-	
-	$fileOutput = "";
-
-	for($i = 0; $i<10; $i++){
-		$fileOutput = $fileOutput . 
-		"insert into places(address_line_one, address_line_two, notes) VALUES ('" . rand(0,3000) . " " . $fileContents[rand(0,$fileLength)] . " Street','" . $fileContents[rand(0,$fileLength)] . "');" . "\n";
-	}
-
-	echo $fileOutput;
-	//file_put_contents("outputScripts/NameInserts_".gmdate("Y-m-d H:i:s") . ".txt", $fileOutput);
-
-	//var_dump()
-
-	//print_r($fileContents);
-
-	//PrintCurrentFunction(__FUNCTION__);
+	return $fileContents;
 }
 
 function FileParser($file)
