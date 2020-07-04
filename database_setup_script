@@ -1,0 +1,27 @@
+-- people
+create table people
+(
+	id int auto_increment,
+	first_name nvarchar(20) not null,
+	last_name nvarchar(20) not null,
+    constraint people_pk
+		primary key (id)
+);
+
+create unique index people_id_uindex
+	on people (id);
+
+-- places
+
+create table places
+(
+	id int auto_increment,
+	address_line_one nvarchar(20) not null,
+	address_line_two nvarchar(20) not null,
+	notes nvarchar(90) null,
+    constraint places_pk
+		primary key (id)
+);
+
+create unique index places_id_uindex
+	on places (id);
