@@ -19,15 +19,36 @@ function main()
 	foreach($fileList as &$aryElem)
 	{
 		$singleFileContents = FileImport($aryElem);
-		array_push($fileContents, $singleFileContents);
 
+		foreach ($singleFileContents as &$fileAryElem) {
+			array_push($fileContents, $fileAryElem);
+		}
+		unset($fileAryElem);
+
+		
 		//print_r($singleFileContents);
 	}
 	unset($aryElem);
 
+//	echo count($fileContents) . "\n";
+
+	$fileLength = count($fileContents);
+	
+	$fileOutput = "";
+
+	for($i = 0; $i<10000; $i++){
+		$fileOutput = $fileOutput . 
+		"insert into people(first_name, last_name) VALUES ('" . $fileContents[rand(0,$fileLength)] . "','" . $fileContents[rand(0,$fileLength)] . "');" . "\n";
+	}
+
+	echo $fileOutput;
+	file_put_contents("outputScripts/NameInserts_".gmdate("Y-m-d H:i:s") . ".txt", $fileOutput);
+
+	//var_dump()
+
 	//print_r($fileContents);
 
-	PrintCurrentFunction(__FUNCTION__);
+	//PrintCurrentFunction(__FUNCTION__);
 }
 
 function FileParser($file)
@@ -43,7 +64,7 @@ function FileParser($file)
 		*/
 		$explode = explode("\t", $fp);
 		$passBack = preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $explode[0]); 
-		array_push($secondPass, $passBack);
+		array_push($secondPass, str_replace("'", "", ucfirst(strtolower($passBack))));
 		/*
 		if (strpos($fp, 'ABRANCHES	19') !== false) {
 		    echo $passBack."\n";

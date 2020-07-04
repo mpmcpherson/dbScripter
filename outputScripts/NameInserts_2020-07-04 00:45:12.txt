@@ -1,0 +1,10 @@
+insert into people(first_name, last_name) VALUES ('Maceira','Ricou');
+insert into people(first_name, last_name) VALUES ('Lampreia','Majo');
+insert into people(first_name, last_name) VALUES ('Sandinha','Teak');
+insert into people(first_name, last_name) VALUES ('Assunto','Ysbrn');
+insert into people(first_name, last_name) VALUES ('Sofia','Mindert');
+insert into people(first_name, last_name) VALUES ('Jesselyn','Myntsje');
+insert into people(first_name, last_name) VALUES ('Mireille','Agnieszka');
+insert into people(first_name, last_name) VALUES ('Oitaven','Napolina');
+insert into people(first_name, last_name) VALUES ('Vincent','Redondeiro');
+insert into people(first_name, last_name) VALUES ('Feria','Natasja');
