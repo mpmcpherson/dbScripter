@@ -25,3 +25,29 @@ create table places
 
 create unique index places_id_uindex
 	on places (id);
+
+
+-- industry
+create table industry
+(
+	id int auto_increment,
+	industry_name nvarchar(45) not null,
+    constraint industry_pk
+		primary key (id)
+);
+
+create unique index industry_id_uindex
+	on industry (id);
+
+
+-- company
+create table company
+(
+	id int auto_increment,
+	company_name nvarchar(100) not null,
+	constraint company_pk
+		primary key (id)
+);
+
+create unique index company_id_uindex
+	on company (id);
