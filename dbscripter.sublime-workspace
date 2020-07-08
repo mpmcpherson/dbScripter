@@ -3,10 +3,42 @@
 	{
 		"selected_items":
 		[
+			[
+				"filea",
+				"fileAryElem"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "people.php",
+			"settings":
+			{
+				"buffer_size": 2491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "places.php",
+			"settings":
+			{
+				"buffer_size": 3043,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database_setup_script",
+			"settings":
+			{
+				"buffer_size": 906,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "-- people"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -40,16 +72,23 @@
 	},
 	"expanded_folders":
 	[
-		"/home/michaelmcpherson/src/dbScripter"
+		"/home/michaelmcpherson/src/dbScripter",
+		"/home/michaelmcpherson/src/dbScripter/data",
+		"/home/michaelmcpherson/src/dbScripter/outputScripts"
 	],
 	"file_history":
 	[
+		"/home/michaelmcpherson/src/dbScripter/locations/states",
+		"/home/michaelmcpherson/src/dbScripter/locations/cities",
+		"/home/michaelmcpherson/src/dbScripter/locations/streetEndings",
+		"/home/michaelmcpherson/src/USA-cities-and-states/us_cities_states_counties.csv",
+		"/home/michaelmcpherson/src/dbScripter/outputScripts/NameInserts_2020-07-04 00:07:31.txt",
 		"/home/michaelmcpherson/src/writtenRecords/DnD/song bones",
 		"/home/michaelmcpherson/src/writtenRecords/DnD/Beluin Keyran"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -86,18 +125,107 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "people.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								947,
+								947
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 65.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "places.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1257,
+								1257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 421.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "database_setup_script",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "-- people",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 38.0
 	},
 	"layout":
 	{
@@ -130,7 +258,7 @@
 	"project": "",
 	"replace":
 	{
-		"height": 0.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -168,7 +296,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 352.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

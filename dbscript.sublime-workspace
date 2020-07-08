@@ -28,10 +28,20 @@
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"file": "industries.php",
 			"settings":
 			{
-				"buffer_size": 1925,
+				"buffer_size": 2511,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "companies.php",
+			"settings":
+			{
+				"buffer_size": 2508,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -77,10 +87,14 @@
 	},
 	"expanded_folders":
 	[
-		"/home/hermes/src/dbScripter"
+		"/home/michaelmcpherson/src/dbScripter"
 	],
 	"file_history":
 	[
+		"/home/michaelmcpherson/src/dbScripter/database_setup_script",
+		"/home/michaelmcpherson/src/dbScripter/industries/industryList",
+		"/home/michaelmcpherson/src/dbScripter/outputScripts/PlaceInserts_2020-07-05 03:38:15.txt",
+		"/home/michaelmcpherson/src/dbScripter/index.php",
 		"/home/hermes/Documents/writtenWork/WeirdWest/weird west ideas",
 		"/home/hermes/src/homepage/homepage/src/app/content/content.component.html",
 		"/home/hermes/src/homepage/homepage/src/app/header/header.component.html",
@@ -140,24 +154,53 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "industries.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1925,
+						"buffer_size": 2511,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "companies.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
 							]
 						],
 						"settings":
