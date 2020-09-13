@@ -27,24 +27,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "industries.php",
-			"settings":
-			{
-				"buffer_size": 2511,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "companies.php",
-			"settings":
-			{
-				"buffer_size": 2508,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -91,6 +73,9 @@
 	],
 	"file_history":
 	[
+		"/home/michaelmcpherson/src/dbScripter/industries.php",
+		"/home/michaelmcpherson/src/dbScripter/companies.php",
+		"/home/michaelmcpherson/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
 		"/home/michaelmcpherson/src/dbScripter/database_setup_script",
 		"/home/michaelmcpherson/src/dbScripter/industries/industryList",
 		"/home/michaelmcpherson/src/dbScripter/outputScripts/PlaceInserts_2020-07-05 03:38:15.txt",
@@ -154,67 +139,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "industries.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2511,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								280,
-								280
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 104.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "companies.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2508,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								513,
-								513
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -249,6 +175,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.doc":
 	{
 		"height": 0.0
