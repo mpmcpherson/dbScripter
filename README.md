@@ -1,5 +1,5 @@
 # dbScripter
-database import and update scripter in php
+random value and db scripts for inserting those values into a database.  
 
 Just whacking together a little group of scripts to help dump text files into the database, as well as randomly generate some data and lay it off to the DB.
 
