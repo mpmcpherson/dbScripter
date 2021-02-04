@@ -26,7 +26,7 @@ function CreateFileOutput($fileContents)
 	
 	$fileOutput = "";
 
-
+/*
 	for($i = 0; $i<$fileLength; $i++){
 		$fileOutput = $fileOutput . "insert into industry(industry_name) VALUES" . " ('" . $fileContents[$i] . "');\n";
 	}
@@ -34,6 +34,12 @@ function CreateFileOutput($fileContents)
 	//echo $fileOutput;
 	file_put_contents("outputScripts/industryInserts_".gmdate("Y-m-d H:i:s") . ".txt", $fileOutput);
 	echo "File write done \n";
+*/
+	if($outputtingNames){
+		for($j=0;$j<$fileLength;$j++){
+			file_put_contents("outputScripts/industries.txt", $fileContents[$j]."\n", FILE_APPEND);
+		}
+	}
 
 }
 

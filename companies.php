@@ -26,7 +26,7 @@ function CreateFileOutput($fileContents)
 	$fileLength = (count($fileContents)-1);
 	
 	$fileOutput = "";
-
+	/*
 
 	for($i = 0; $i<$fileLength; $i++){
 		$fileOutput = $fileOutput . "insert into company(company_name) VALUES" . " ('" . $fileContents[$i] . "');\n";
@@ -35,7 +35,12 @@ function CreateFileOutput($fileContents)
 	//echo $fileOutput;
 	file_put_contents("outputScripts/CompanyInserts_".gmdate("Y-m-d H:i:s") . ".txt", $fileOutput);
 	echo "File write done \n";
-
+	*/
+	if($outputtingNames){
+		for($j=0;$j<$fileLength;$j++){
+			file_put_contents("outputScripts/companies.txt", $fileContents[$j]."\n", FILE_APPEND);
+		}
+	}
 }
 
 function GetFlattenedMDArray($fileList)
