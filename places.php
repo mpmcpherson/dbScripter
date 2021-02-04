@@ -45,6 +45,12 @@ function CreateFileOutput($fileContents)
 	file_put_contents("outputScripts/PlaceInserts_".gmdate("Y-m-d H:i:s") . ".txt", $fileOutput);
 	echo "File write done \n";
 
+	if($outputtingNames){
+		for($j=0;$j<$fileLength;$j++){
+			file_put_contents("outputScripts/names.txt", $fileContents[$j]."\n", FILE_APPEND);
+		}
+	}
+
 }
 
 function GetFlattenedMDArray($fileList)

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"filecont",
+				"$fileContents〔variable〕"
+			],
+			[
 				"space",
 				"space-around\tjustify-content"
 			],
@@ -69,12 +73,21 @@
 	},
 	"expanded_folders":
 	[
-		"/home/michaelmcpherson/src/dbScripter"
+		"/home/michaelmcpherson/src/dbScripter",
+		"/home/michaelmcpherson/src/dbScripter/data",
+		"/home/michaelmcpherson/src/dbScripter/locations"
 	],
 	"file_history":
 	[
-		"/home/michaelmcpherson/src/dbScripter/industries.php",
+		"/home/michaelmcpherson/src/dbScripter/outputScripts/names.txt",
 		"/home/michaelmcpherson/src/dbScripter/companies.php",
+		"/home/michaelmcpherson/src/dbScripter/locations/states",
+		"/home/michaelmcpherson/src/dbScripter/locations/streetEndings",
+		"/home/michaelmcpherson/src/dbScripter/places.php",
+		"/home/michaelmcpherson/src/dbScripter/people.php",
+		"/home/michaelmcpherson/src/dbScripter/industries.php",
+		"/home/michaelmcpherson/src/dbScripter/locations/cities",
+		"/home/michaelmcpherson/src/dbScripter/outputScripts/companies.txt",
 		"/home/michaelmcpherson/.config/sublime-merge/Packages/User/Preferences.sublime-settings",
 		"/home/michaelmcpherson/src/dbScripter/database_setup_script",
 		"/home/michaelmcpherson/src/dbScripter/industries/industryList",
@@ -108,7 +121,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 32.0
 	},
 	"find_in_files":
 	{
@@ -146,7 +159,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -191,7 +204,7 @@
 	"project": "dbscript.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
