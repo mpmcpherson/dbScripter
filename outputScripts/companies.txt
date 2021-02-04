@@ -1,0 +1,947 @@
+company_name
+3com corp
+3m company
+A.g. edwards inc.
+Abbott laboratories
+Abercrombie & fitch co.
+Abm industries incorporated
+Ace hardware corporation
+Act manufacturing inc.
+Acterna corp.
+Adams resources & energy, inc.
+Adc telecommunications, inc.
+Adelphia communications corporation
+Administaff, inc.
+Adobe systems incorporated
+Adolph coors company
+Advance auto parts, inc.
+Advanced micro devices, inc.
+Advancepcs, inc.
+Advantica restaurant group, inc.
+The aes corporation
+Aetna inc.
+Affiliated computer services, inc.
+Aflac incorporated
+Agco corporation
+Agilent technologies, inc.
+Agway inc.
+Apartment investment and management company
+Air products and chemicals, inc.
+Airborne, inc.
+Airgas, inc.
+Ak steel holding corporation
+Alaska air group, inc.
+Alberto-culver company
+Albertsons, inc.
+Alcoa inc.
+Alleghany corporation
+Allegheny energy, inc.
+Allegheny technologies incorporated
+Allergan, inc.
+Allete, inc.
+Alliant energy corporation
+Allied waste industries, inc.
+Allmerica financial corporation
+The allstate corporation
+Alltel corporation
+The alpine group, inc.
+Amazon.com, inc.
+Amc entertainment inc.
+American power conversion corporation
+Amerada hess corporation
+Amerco
+Ameren corporation
+America west holdings corporation
+American axle & manufacturing holdings, inc.
+American eagle outfitters, inc.
+American electric power company, inc.
+American express company
+American financial group, inc.
+American greetings corporation
+American international group, inc.
+American standard companies inc.
+American water works company, inc.
+Amerisourcebergen corporation
+Ames department stores, inc.
+Amgen inc.
+Amkor technology, inc.
+Amr corporation
+Amsouth bancorp.
+Amtran, inc.
+Anadarko petroleum corporation
+Analog devices, inc.
+Anheuser-busch companies, inc.
+Anixter international inc.
+Anntaylor inc.
+Anthem, inc.
+Aol time warner inc.
+Aon corporation
+Apache corporation
+Apple computer, inc.
+Applera corporation
+Applied industrial technologies, inc.
+Applied materials, inc.
+Aquila, inc.
+Aramark corporation
+Arch coal, inc.
+Archer daniels midland company
+Arkansas best corporation
+Armstrong holdings, inc.
+Arrow electronics, inc.
+Arvinmeritor, inc.
+Ashland inc.
+Astoria financial corporation
+At&t corp.
+Atmel corporation
+Atmos energy corporation
+Audiovox corporation
+Autoliv, inc.
+Automatic data processing, inc.
+Autonation, inc.
+Autozone, inc.
+Avaya inc.
+Avery dennison corporation
+Avista corporation
+Avnet, inc.
+Avon products, inc.
+Baker hughes incorporated
+Ball corporation
+Bank of america corporation
+The bank of new york company, inc.
+Bank one corporation
+Banknorth group, inc.
+Banta corporation
+Barnes & noble, inc.
+Bausch & lomb incorporated
+Baxter international inc.
+Bb&t corporation
+The bear stearns companies inc.
+Beazer homes usa, inc.
+Beckman coulter, inc.
+Becton, dickinson and company
+Bed bath & beyond inc.
+Belk, inc.
+Bell microproducts inc.
+Bellsouth corporation
+Belo corp.
+Bemis company, inc.
+Benchmark electronics, inc.
+Berkshire hathaway inc.
+Best buy co., inc.
+Bethlehem steel corporation
+Beverly enterprises, inc.
+Big lots, inc.
+Bj services company
+Bjs wholesale club, inc.
+The black & decker corporation
+Black hills corporation
+Bmc software, inc.
+The boeing company
+Boise cascade corporation
+Borders group, inc.
+Borgwarner inc.
+Boston scientific corporation
+Bowater incorporated
+Briggs & stratton corporation
+Brightpoint, inc.
+Brinker international, inc.
+Bristol-myers squibb company
+Broadwing, inc.
+Brown shoe company, inc.
+Brown-forman corporation
+Brunswick corporation
+Budget group, inc.
+Burlington coat factory warehouse corporation
+Burlington industries, inc.
+Burlington northern santa fe corporation
+Burlington resources inc.
+C. h. robinson worldwide inc.
+Cablevision systems corp
+Cabot corp
+Cadence design systems, inc.
+Calpine corp.
+Campbell soup co.
+Capital one financial corp.
+Cardinal health inc.
+Caremark rx inc.
+Carlisle cos. inc.
+Carpenter technology corp.
+Caseys general stores inc.
+Caterpillar inc.
+Cbrl group inc.
+Cdi corp.
+Cdw computer centers inc.
+Cellstar corp.
+Cendant corp
+Cenex harvest states cooperatives
+Centex corp.
+Centurytel inc.
+Ceridian corp.
+Ch2m hill cos. ltd.
+Champion enterprises inc.
+Charles schwab corp.
+Charming shoppes inc.
+Charter communications inc.
+Charter one financial inc.
+Chevrontexaco corp.
+Chiquita brands international inc.
+Chubb corp
+Ciena corp.
+Cigna corp
+Cincinnati financial corp.
+Cinergy corp.
+Cintas corp.
+Circuit city stores inc.
+Cisco systems inc.
+Citigroup, inc
+Citizens communications co.
+Cke restaurants inc.
+Clear channel communications inc.
+The clorox co.
+Cmgi inc.
+Cms energy corp.
+Cnf inc.
+Coca-cola co.
+Coca-cola enterprises inc.
+Colgate-palmolive co.
+Collins & aikman corp.
+Comcast corp.
+Comdisco inc.
+Comerica inc.
+Comfort systems usa inc.
+Commercial metals co.
+Community health systems inc.
+Compass bancshares inc
+Computer associates international inc.
+Computer sciences corp.
+Compuware corp.
+Comverse technology inc.
+Conagra foods inc.
+Concord efs inc.
+Conectiv, inc
+Conoco inc
+Conseco inc.
+Consolidated freightways corp.
+Consolidated edison inc.
+Constellation brands inc.
+Constellation emergy group inc.
+Continental airlines inc.
+Convergys corp.
+Cooper cameron corp.
+Cooper industries ltd.
+Cooper tire & rubber co.
+Corn products international inc.
+Corning inc.
+Costco wholesale corp.
+Countrywide credit industries inc.
+Coventry health care inc.
+Cox communications inc.
+Crane co.
+Crompton corp.
+Crown cork & seal co. inc.
+Csk auto corp.
+Csx corp.
+Cummins inc.
+Cvs corp.
+Cytec industries inc.
+D&k healthcare resources, inc.
+D.r. horton inc.
+Dana corporation
+Danaher corporation
+Darden restaurants inc.
+Davita inc.
+Dean foods company
+Deere & company
+Del monte foods co
+Dell computer corporation
+Delphi corp.
+Delta air lines inc.
+Deluxe corporation
+Devon energy corporation
+Di giorgio corporation
+Dial corporation
+Diebold incorporated
+Dillards inc.
+Dimon incorporated
+Dole food company, inc.
+Dollar general corporation
+Dollar tree stores, inc.
+Dominion resources, inc.
+Dominos pizza llc
+Dover corporation, inc.
+Dow chemical company
+Dow jones & company, inc.
+Dpl inc.
+Dqe inc.
+Dreyers grand ice cream, inc.
+Dst systems, inc.
+Dte energy co.
+E.i. du pont de nemours and company
+Duke energy corp
+Dun & bradstreet inc.
+Dura automotive systems inc.
+Dyncorp
+Dynegy inc.
+E*trade group, inc.
+E.w. scripps company
+Earthlink, inc.
+Eastman chemical company
+Eastman kodak company
+Eaton corporation
+Echostar communications corporation
+Ecolab inc.
+Edison international
+Egl inc.
+El paso corporation
+Electronic arts inc.
+Electronic data systems corp.
+Eli lilly and company
+Emc corporation
+Emcor group inc.
+Emerson electric co.
+Encompass services corporation
+Energizer holdings inc.
+Energy east corporation
+Engelhard corporation
+Enron corp.
+Entergy corporation
+Enterprise products partners l.p.
+Eog resources, inc.
+Equifax inc.
+Equitable resources inc.
+Equity office properties trust
+Equity residential properties trust
+Estee lauder companies inc.
+Exelon corporation
+Exide technologies
+Expeditors international of washington inc.
+Express scripts inc.
+Exxonmobil corporation
+Fairchild semiconductor international inc.
+Family dollar stores inc.
+Farmland industries inc.
+Federal mogul corp.
+Federated department stores inc.
+Federal express corp.
+Felcor lodging trust inc.
+Ferro corp.
+Fidelity national financial inc.
+Fifth third bancorp
+First american financial corp.
+First data corp.
+First national of nebraska inc.
+First tennessee national corp.
+Firstenergy corp.
+Fiserv inc.
+Fisher scientific international inc.
+Fleetboston financial co.
+Fleetwood enterprises inc.
+Fleming companies inc.
+Flowers foods inc.
+Flowserv corp
+Fluor corp
+Fmc corp
+Foamex international inc
+Foot locker inc
+Footstar inc.
+Ford motor co
+Forest laboratories inc.
+Fortune brands inc.
+Foster wheeler ltd.
+Fpl group inc.
+Franklin resources inc.
+Freeport mcmoran copper & gold inc.
+Frontier oil corp
+Furniture brands international inc.
+Gannett co., inc.
+Gap inc.
+Gateway inc.
+Gatx corporation
+Gemstar-tv guide international inc.
+Gencorp inc.
+General cable corporation
+General dynamics corporation
+General electric company
+General mills inc
+General motors corporation
+Genesis health ventures inc.
+Gentek inc.
+Gentiva health services inc.
+Genuine parts company
+Genuity inc.
+Genzyme corporation
+Georgia gulf corporation
+Georgia-pacific corporation
+Gillette company
+Gold kist inc.
+Golden state bancorp inc.
+Golden west financial corporation
+Goldman sachs group inc.
+Goodrich corporation
+The goodyear tire & rubber company
+Granite construction incorporated
+Graybar electric company inc.
+Great lakes chemical corporation
+Great plains energy inc.
+Greenpoint financial corp.
+Greif bros. corporation
+Grey global group inc.
+Group 1 automotive inc.
+Guidant corporation
+H&r block inc.
+H.b. fuller company
+H.j. heinz company
+Halliburton co.
+Harley-davidson inc.
+Harman international industries inc.
+Harrahs entertainment inc.
+Harris corp.
+Harsco corp.
+Hartford financial services group inc.
+Hasbro inc.
+Hawaiian electric industries inc.
+Hca inc.
+Health management associates inc.
+Health net inc.
+Healthsouth corp
+Henry schein inc.
+Hercules inc.
+Herman miller inc.
+Hershey foods corp.
+Hewlett-packard company
+Hibernia corp.
+Hillenbrand industries inc.
+Hilton hotels corp.
+Hollywood entertainment corp.
+Home depot inc.
+Hon industries inc.
+Honeywell international inc.
+Hormel foods corp.
+Host marriott corp.
+Household international corp.
+Hovnanian enterprises inc.
+Hub group inc.
+Hubbell inc.
+Hughes supply inc.
+Humana inc.
+Huntington bancshares inc.
+Idacorp inc.
+Idt corporation
+Ikon office solutions inc.
+Illinois tool works inc.
+Imc global inc.
+Imperial sugar company
+Ims health inc.
+Ingles market inc
+Ingram micro inc.
+Insight enterprises inc.
+Integrated electrical services inc.
+Intel corporation
+International paper co.
+Interpublic group of companies inc.
+Interstate bakeries corporation
+International business machines corp.
+International flavors & fragrances inc.
+International multifoods corporation
+Intuit inc.
+It group inc.
+Itt industries inc.
+Ivax corp.
+J.b. hunt transport services inc.
+J.c. penny co.
+J.p. morgan chase & co.
+Jabil circuit inc.
+Jack in the box inc.
+Jacobs engineering group inc.
+Jds uniphase corp.
+Jefferson-pilot co.
+John hancock financial services inc.
+Johnson & johnson
+Johnson controls inc.
+Jones apparel group inc.
+Kb home
+Kellogg company
+Kellwood company
+Kelly services inc.
+Kemet corp.
+Kennametal inc.
+Kerr-mcgee corporation
+Keycorp
+Keyspan corp.
+Kimball international inc.
+Kimberly-clark corporation
+Kindred healthcare inc.
+Kla-tencor corporation
+K-mart corp.
+Knight-ridder inc.
+Kohls corp.
+Kpmg consulting inc.
+Kroger co.
+L-3 communications holdings inc.
+Laboratory corporation of america holdings
+Lam research corporation
+Landamerica financial group inc.
+Lands end inc.
+Landstar system inc.
+La-z-boy inc.
+Lear corporation
+Legg mason inc.
+Leggett & platt inc.
+Lehman brothers holdings inc.
+Lennar corporation
+Lennox international inc.
+Level 3 communications inc.
+Levi strauss & co.
+Lexmark international inc.
+Limited inc.
+Lincoln national corporation
+Linens n things inc.
+Lithia motors inc.
+Liz claiborne inc.
+Lockheed martin corporation
+Loews corporation
+Longs drug stores corporation
+Louisiana-pacific corporation
+Lowes companies inc.
+Lsi logic corporation
+The ltv corporation
+The lubrizol corporation
+Lucent technologies inc.
+Lyondell chemical company
+M & t bank corporation
+Magellan health services inc.
+Mail-well inc.
+Mandalay resort group
+Manor care inc.
+Manpower inc.
+Marathon oil corporation
+Mariner health care inc.
+Markel corporation
+Marriott international inc.
+Marsh & mclennan companies inc.
+Marsh supermarkets inc.
+Marshall & ilsley corporation
+Martin marietta materials inc.
+Masco corporation
+Massey energy company
+Mastec inc.
+Mattel inc.
+Maxim integrated products inc.
+Maxtor corporation
+Maxxam inc.
+The may department stores company
+Maytag corporation
+Mbna corporation
+Mccormick & company incorporated
+Mcdonalds corporation
+The mcgraw-hill companies inc.
+Mckesson corporation
+Mcleodusa incorporated
+M.d.c. holdings inc.
+Mdu resources group inc.
+Meadwestvaco corporation
+Medtronic inc.
+Mellon financial corporation
+The mens wearhouse inc.
+Merck & co., inc.
+Mercury general corporation
+Merrill lynch & co. inc.
+Metaldyne corporation
+Metals usa inc.
+Metlife inc.
+Metris companies inc
+Mgic investment corporation
+Mgm mirage
+Michaels stores inc.
+Micron technology inc.
+Microsoft corporation
+Milacron inc.
+Millennium chemicals inc.
+Mirant corporation
+Mohawk industries inc.
+Molex incorporated
+The mony group inc.
+Morgan stanley dean witter & co.
+Motorola inc.
+Mps group inc.
+Murphy oil corporation
+Nabors industries inc
+Nacco industries inc
+Nash finch company
+National city corp.
+National commerce financial corporation
+National fuel gas company
+National oilwell inc
+National rural utilities cooperative finance corporation
+National semiconductor corporation
+National service industries inc
+Navistar international corporation
+Ncr corporation
+The neiman marcus group inc.
+New jersey resources corporation
+New york times company
+Newell rubbermaid inc
+Newmont mining corporation
+Nextel communications inc
+Nicor inc
+Nike inc
+Nisource inc
+Noble energy inc
+Nordstrom inc
+Norfolk southern corporation
+Nortek inc
+North fork bancorporation inc
+Northeast utilities system
+Northern trust corporation
+Northrop grumman corporation
+Northwestern corporation
+Novellus systems inc
+Nstar
+Ntl incorporated
+Nucor corp
+Nvidia corp
+Nvr inc
+Northwest airlines corp
+Occidental petroleum corp
+Ocean energy inc
+Office depot inc.
+Officemax inc
+Oge energy corp
+Oglethorpe power corp.
+Ohio casualty corp.
+Old republic international corp.
+Olin corp.
+Om group inc
+Omnicare inc
+Omnicom group
+On semiconductor corp
+Oneok inc
+Oracle corp
+Oshkosh truck corp
+Outback steakhouse inc.
+Owens & minor inc.
+Owens corning
+Owens-illinois inc
+Oxford health plans inc
+Paccar inc
+Pacificare health systems inc
+Packaging corp. of america
+Pactiv corp
+Pall corp
+Pantry inc
+Park place entertainment corp
+Parker hannifin corp.
+Pathmark stores inc.
+Paychex inc
+Payless shoesource inc
+Penn traffic co.
+Pennzoil-quaker state company
+Pentair inc
+Peoples energy corp.
+Peoplesoft inc
+Pep boys manny, moe & jack
+Potomac electric power co.
+Pepsi bottling group inc.
+Pepsiamericas inc.
+Pepsico inc.
+Performance food group co.
+Perini corp
+Perkinelmer inc
+Perot systems corp
+Petco animal supplies inc.
+Peter kiewit sons, inc.
+Petsmart inc
+Pfizer inc
+Pacific gas & electric corp.
+Pharmacia corp
+Phar mor inc.
+Phelps dodge corp.
+Philip morris companies inc.
+Phillips petroleum co
+Phillips van heusen corp.
+Phoenix companies inc
+Pier 1 imports inc.
+Pilgrims pride corporation
+Pinnacle west capital corp
+Pioneer-standard electronics inc.
+Pitney bowes inc.
+Pittston brinks group
+Plains all american pipeline lp
+Pnc financial services group inc.
+Pnm resources inc
+Polaris industries inc.
+Polo ralph lauren corp
+Polyone corp
+Popular inc
+Potlatch corp
+Ppg industries inc
+Ppl corp
+Praxair inc
+Precision castparts corp
+Premcor inc.
+Pride international inc
+Primedia inc
+Principal financial group inc.
+Procter & gamble co.
+Pro-fac cooperative inc.
+Progress energy inc
+Progressive corporation
+Protective life corp
+Provident financial group
+Providian financial corp.
+Prudential financial inc.
+Pss world medical inc
+Public service enterprise group inc.
+Publix super markets inc.
+Puget energy inc.
+Pulte homes inc
+Qualcomm inc
+Quanta services inc.
+Quantum corp
+Quest diagnostics inc.
+Questar corp
+Quintiles transnational
+Qwest communications intl inc
+R.j. reynolds tobacco company
+R.r. donnelley & sons company
+Radio shack corporation
+Raymond james financial inc.
+Raytheon company
+Readers digest association inc.
+Reebok international ltd.
+Regions financial corp.
+Regis corporation
+Reliance steel & aluminum co.
+Reliant energy inc.
+Rent a center inc
+Republic services inc
+Revlon inc
+Rgs energy group inc
+Rite aid corp
+Riverwood holding inc.
+Roadwaycorp
+Robert half international inc.
+Rock-tenn co
+Rockwell automation inc
+Rockwell collins inc
+Rohm & haas co.
+Ross stores inc
+Rpm inc.
+Ruddick corp
+Ryder system inc
+Ryerson tull inc
+Ryland group inc.
+Sabre holdings corp
+Safeco corp
+Safeguard scientifics inc.
+Safeway inc
+Saks inc
+Sanmina-sci inc
+Sara lee corp
+Sbc communications inc
+Scana corp.
+Schering-plough corp
+Scholastic corp
+Sci systems onc.
+Science applications intl. inc.
+Scientific-atlanta inc
+Scotts company
+Seaboard corp
+Sealed air corp
+Sears roebuck & co
+Sempra energy
+Sequa corp
+Service corp. international
+Servicemaster co
+Shaw group inc
+Sherwin-williams company
+Shopko stores inc
+Siebel systems inc
+Sierra health services inc
+Sierra pacific resources
+Silgan holdings inc.
+Silicon graphics inc
+Simon property group inc
+Slm corporation
+Smith international inc
+Smithfield foods inc
+Smurfit-stone container corp
+Snap-on inc
+Solectron corp
+Solutia inc
+Sonic automotive inc.
+Sonoco products co.
+Southern company
+Southern union company
+Southtrust corp.
+Southwest airlines co
+Southwest gas corp
+Sovereign bancorp inc.
+Spartan stores inc
+Spherion corp
+Sports authority inc
+Sprint corp.
+Spx corp
+St. jude medical inc
+St. paul cos.
+Staff leasing inc.
+Stancorp financial group inc
+Standard pacific corp.
+Stanley works
+Staples inc
+Starbucks corp
+Starwood hotels & resorts worldwide inc
+State street corp.
+Stater bros. holdings inc.
+Steelcase inc
+Stein mart inc
+Stewart & stevenson services inc
+Stewart information services corp
+Stilwell financial inc
+Storage technology corporation
+Stryker corp
+Sun healthcare group inc.
+Sun microsystems inc.
+Sungard data systems inc.
+Sunoco inc.
+Suntrust banks inc
+Supervalu inc
+Swift transportation, co., inc
+Symbol technologies inc
+Synovus financial corp.
+Sysco corp
+Systemax inc.
+Target corp.
+Tech data corporation
+Teco energy inc
+Tecumseh products company
+Tektronix inc
+Teleflex incorporated
+Telephone & data systems inc
+Tellabs inc.
+Temple-inland inc
+Tenet healthcare corporation
+Tenneco automotive inc.
+Teradyne inc
+Terex corp
+Tesoro petroleum corp.
+Texas industries inc.
+Texas instruments incorporated
+Textron inc
+Thermo electron corporation
+Thomas & betts corporation
+Tiffany & co
+Timken company
+Tjx companies inc
+Tmp worldwide inc
+Toll brothers inc
+Torchmark corporation
+Toro company
+Tower automotive inc.
+Toys r us inc
+Trans world entertainment corp.
+Transmontaigne inc
+Transocean inc
+Travelcenters of america inc.
+Triad hospitals inc
+Tribune company
+Trigon healthcare inc.
+Trinity industries inc
+Trump hotels & casino resorts inc.
+Truserv corporation
+Trw inc
+Txu corp
+Tyson foods inc
+U.s. bancorp
+U.s. industries inc.
+Ual corporation
+Ugi corporation
+Unified western grocers inc
+Union pacific corporation
+Union planters corp
+Unisource energy corp
+Unisys corporation
+United auto group inc
+United defense industries inc.
+United parcel service inc
+United rentals inc
+United stationers inc
+United technologies corporation
+Unitedhealth group incorporated
+Unitrin inc
+Universal corporation
+Universal forest products inc
+Universal health services inc
+Unocal corporation
+Unova inc
+Unumprovident corporation
+Urs corporation
+Us airways group inc
+Us oncology inc
+Usa interactive
+Usfreighways corporation
+Usg corporation
+Ust inc
+Valero energy corporation
+Valspar corporation
+Value city department stores inc
+Varco international inc
+Vectren corporation
+Veritas software corporation
+Verizon communications inc
+Vf corporation
+Viacom inc
+Viad corp
+Viasystems group inc
+Vishay intertechnology inc
+Visteon corporation
+Volt information sciences inc
+Vulcan materials company
+W.r. berkley corporation
+W.r. grace & co
+W.w. grainger inc
+Wachovia corporation
+Wakenhut corporation
+Walgreen co
+Wallace computer services inc
+Wal-mart stores inc
+Walt disney co
+Walter industries inc
+Washington mutual inc
+Washington post co.
+Waste management inc
+Watsco inc
+Weatherford international inc
+Weis markets inc.
+Wellpoint health networks inc
+Wells fargo & company
+Wendys international inc
+Werner enterprises inc
+Wesco international inc
+Western digital inc
+Western gas resources inc
+Westpoint stevens inc
+Weyerhauser company
+Wgl holdings inc
+Whirlpool corporation
+Whole foods market inc
+Willamette industries inc.
+Williams companies inc
+Williams sonoma inc
+Winn dixie stores inc
+Wisconsin energy corporation
+Wm wrigley jr company
+World fuel services corporation
+Worldcom inc
+Worthington industries inc
+Wps resources corporation
+Wyeth
+Wyndham international inc
+Xcel energy inc
+Xerox corp
+Xilinx inc
+Xo communications inc
+Yellow corporation
+York international corp
+Yum brands inc.
+Zale corporation
